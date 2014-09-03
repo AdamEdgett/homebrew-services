@@ -368,9 +368,4 @@ class Service
   end
 end
 
-# Start the cli dispatch stuff.
-#
-
-EOS
-
 ServicesCli.run!
