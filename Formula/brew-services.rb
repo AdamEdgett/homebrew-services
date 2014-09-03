@@ -3,7 +3,7 @@ require 'formula'
 class BrewServices < Formula
   homepage 'https://github.com/adamedgett/homebrew-services/'
   url 'https://github.com/adamedgett/homebrew-services.git'
-  version '0.1.0'
+  version '1.0.0'
 
   def install
     bin.install 'brew-services.rb'
