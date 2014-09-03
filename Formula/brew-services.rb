@@ -2,7 +2,7 @@ require 'formula'
 
 class BrewServices < Formula
   homepage 'https://github.com/adamedgett/homebrew-services/'
-  url 'https://github.com/adamedgett/homebrew-servies.git'
+  url 'https://github.com/adamedgett/homebrew-services.git'
   version '0.1.0'
 
   def install
