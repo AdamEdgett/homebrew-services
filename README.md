@@ -1,5 +1,5 @@
-A tap replacement for the [soon-to-be removed][s] brew services
-[s]: https://github.com/Homebrew/homebrew/blob/master/Library/Contributions/cmd/brew-services.rb#L375
+A tap replacement for the [recently removed][s] brew services
+[s]: https://github.com/Homebrew/homebrew/commit/8dda57a5220e9665344ccfb37729ed5236ad0fb8
 
 ## Installation
 Install via brew taps:
